@@ -1,0 +1,13 @@
+# Google OAuth
+token.pkl
+credentials.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# VS Code settings (optional)
+.vscode/
